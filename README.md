@@ -11,12 +11,12 @@ A simple Python script to fetch documents from a Firebase Firestore collection a
 
 1. Clone the repository:
    ```
-   git clone [YOUR_REPO_LINK]
+   git clone https://github.com/bijx/Firestore-Data-Fetcher.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd [YOUR_DIRECTORY_NAME]
+   cd Firestore-Data-Fetcher
    ```
 
 3. Install the required packages:
